@@ -1,3 +1,3 @@
 // Building a version history
 console.log("configure.js")
-console.log("Version-15")
+console.log("Version-12")
